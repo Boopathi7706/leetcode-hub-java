@@ -1,5 +1,17 @@
 # Compiled class file
+# Ignore compiled class files
 *.class
+
+# Ignore IDE files
+*.idea/
+*.vscode/
+.DS_Store
+
+# Ignore build directories
+bin/
+out/
+build/
+
 
 # Log file
 *.log
